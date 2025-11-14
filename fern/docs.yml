@@ -84,7 +84,7 @@ navbar-links:
     url: https://buildwithfern.com/contact?utm_campaign=demo&utm_medium=plantstore&utm_source=navbar
   - type: github
     value: https://github.com/fern-api/fern
-      
+
 colors:
   accentPrimary:
     dark: "#81C784"
@@ -101,3 +101,8 @@ logo:
   href: https://buildwithfern.com/?utm_campaign=demo&utm_medium=plantstore&utm_source=logo
 
 favicon: docs/assets/favicon.svg
+
+languages:
+  - en
+  - es
+  - fr
